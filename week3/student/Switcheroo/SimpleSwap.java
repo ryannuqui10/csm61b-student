@@ -1,3 +1,5 @@
+package Switcheroo;
+
 public class SimpleSwap{
     public static void swap(int a, int b) {
         int temp = b;

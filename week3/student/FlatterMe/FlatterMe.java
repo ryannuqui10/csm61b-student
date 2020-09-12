@@ -1,3 +1,5 @@
+package FlatterMe;
+
 public class FlatterMe {
     public int[] a = new int[3];
     public int[] b = new int[]{1, 2, 3};

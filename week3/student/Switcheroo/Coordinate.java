@@ -1,3 +1,5 @@
+package Switcheroo;
+
 public class Coordinate {
     public int x, y;
     public Coordinate(int x, int y) {

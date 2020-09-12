@@ -1,3 +1,7 @@
+package Switcheroo;
+
+import Switcheroo.Coordinate;
+
 public class SwapObject {
     public static void swap(Coordinate p) {
         int temp = p.x;
