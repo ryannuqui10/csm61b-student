@@ -5,15 +5,15 @@ public class Poodle extends Dog {
         System.out.println("woof");
     }
 
-    public void bark(Poodle p) {
-        System.out.println("yap");
-    }
+//    public void bark(Poodle p) {
+//        System.out.println("yap");
+//    }
 
-    public void play(Dog d) {
-        System.out.println("no");
-    }
+//    public void play(Dog d) {
+//        System.out.println("no");
+//    }
 
-    public void play(Poodle p) {
-        System.out.println("bowwow");
-    }
+//    public void play(Poodle p) {
+//        System.out.println("bowwow");
+//    }
 }

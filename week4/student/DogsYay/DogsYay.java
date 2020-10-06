@@ -2,8 +2,11 @@ package DogsYay;
 
 public class DogsYay {
     public static void main(String[] args) {
-        part1();
+       // part1();
 //        part2();
+        Dog dan = new Poodle();
+        Poodle pym = new Poodle();
+        pym.bark(pym);
     }
 
     public static void part1() {
