@@ -9,6 +9,7 @@ public class FlatterMeTest {
         int[] testArr0 = {0};
         int[] testArr1 = {1};
         assertEquals(0, FlatterMe.middle(testArr0));
+        assertEquals(1, FlatterMe.middle(testArr1));
     }
 
     @Test
